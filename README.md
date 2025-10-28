@@ -15,3 +15,10 @@ with `npm start` and the frontend in development mode with `npm run dev`.
 The input data files can be obtained from the Spotify website ([here is a useful
 guide from stats.fm](https://support.stats.fm/docs/import/spotify-import/)).
 Some sample data files are located in the `data` directory.
+
+## Rationale
+
+Spotify Wrapped is painfully incomplete, and I could not find a free service
+online to visualize and aggregate streaming data. There are several
+subscription-based paid services that offer this, but the functionality seemed
+so simple that I could not justify the cost. Therefore, I made Spotify Mapped.
